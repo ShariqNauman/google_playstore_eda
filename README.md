@@ -28,10 +28,6 @@ This analysis aims to uncover insights that could be valuable for app developers
 - Matplotlib
 - Seaborn
 
-## Key Findings
-
-Detailed insights and visualizations are available in the full report.
-
 ## How to Use
 
 1. Clone this repository
