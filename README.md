@@ -40,7 +40,7 @@ Detailed insights and visualizations are available in the full report.
 
 ## Author
 
-Shariq Nauman
+Shariq Nauman\
 Email: shariqnaumann@gmail.com
 
 ## Acknowledgements
