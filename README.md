@@ -49,7 +49,7 @@ Several insightful visualizations are included in this project, such as:
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/google-playstore-eda.git
+   git clone https://github.com/ShariqNauman/google_playstore_eda.git
    ```
 2. Navigate to the project directory:
    ```sh
