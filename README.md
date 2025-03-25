@@ -53,7 +53,7 @@ Several insightful visualizations are included in this project, such as:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd google-playstore-eda
+   cd google_playstore_eda
    ```
 3. Install required dependencies:
    ```sh
