@@ -1,7 +1,7 @@
 # Google Play Store EDA
 
 ## 📌 Project Overview
-This project performs **Exploratory Data Analysis (EDA)** on the Google Play Store dataset to uncover insights into app ratings, reviews, pricing, and category distributions. The analysis helps identify trends and patterns in the mobile app ecosystem.
+This project performs **Exploratory Data Analysis (EDA)** on the Google Play Store dataset to uncover insights into app ratings, reviews, pricing, and category distributions. The analysis helps identify trends and patterns in the mobile app ecosystem. Additionally, a **machine learning model** has been implemented to predict app ratings based on key features.
 
 ## 📂 Dataset
 The dataset used in this analysis contains information about apps available on the Google Play Store, including:
@@ -24,6 +24,7 @@ The dataset used in this analysis contains information about apps available on t
 - **Pandas** (for data manipulation)
 - **NumPy** (for numerical computations)
 - **Matplotlib & Seaborn** (for data visualization)
+- **Scikit-learn** (for machine learning models)
 - **Jupyter Notebook** (for interactive analysis)
 
 ## 📊 Key Analyses & Insights
@@ -33,6 +34,10 @@ The dataset used in this analysis contains information about apps available on t
 4. **Category-wise App Count**: Identifying the most popular categories.
 5. **Impact of App Size on Installs**: Evaluating whether app size influences download counts.
 6. **Trends in Content Ratings**: Analyzing age-group-based distribution of apps.
+7. **Machine Learning Model for Rating Prediction**: 
+   - Implemented a regression model using Scikit-learn to predict app ratings based on features like reviews, size, and category.
+   - Evaluated model performance using metrics such as **Mean Squared Error (MSE)** and **R-squared score**.
+   - Explored feature importance to understand key factors influencing ratings.
 
 ## 📷 Visualizations
 Several insightful visualizations are included in this project, such as:
@@ -60,9 +65,10 @@ Several insightful visualizations are included in this project, such as:
    ```
 
 ## 🔥 Future Improvements
-- Feature engineering for predictive modeling (e.g., predicting app success based on attributes)
-- Sentiment analysis on user reviews
-- Time-series analysis for trends over the years
+- Fine-tuning the machine learning model for better prediction accuracy.
+- Feature engineering for predictive modeling (e.g., predicting app success based on attributes).
+- Sentiment analysis on user reviews.
+- Time-series analysis for trends over the years.
 
 ## 🤝 Contributing
 Feel free to fork this repository and contribute by improving analyses or adding new insights.
@@ -72,4 +78,3 @@ This project is licensed under the MIT License.
 
 ---
 📩 **Let's connect!** If you have any feedback or suggestions, feel free to reach out.
-
